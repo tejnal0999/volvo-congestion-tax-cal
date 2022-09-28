@@ -75,7 +75,7 @@ Output:
 
 ## What can be done on application if given more time?
 - Swagger INTEGRATION
-- Solution that coule be re usual for all use cases ex: handling different tax rules, 
+- Solution that coule be re useful for all use cases ex: handling different tax rules, 
 - Add data persistence layer 
 - Add support for global exception handling using [ @ControllerAdvice ] spring feature 
 - Add test coverage both unit and spring integration tests
