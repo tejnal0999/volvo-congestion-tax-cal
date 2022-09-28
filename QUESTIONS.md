@@ -4,5 +4,4 @@
 
 
 ## Clarification
-    Given: The maximum amount per day and vehicle is 60 SEK.
-    Implemented: Assuming that the maximum amount per single day for a specific vehicle is 60 SEK.
+  -> does it ever get to cover tax rule of sub passes for peak hours  which grater than single toll and less than day charge
